@@ -1,6 +1,5 @@
 This resporatory is attached to COV19D_2nd project. <br/>
-Preprossing images with focus on segmentation of CT slices. The work coincides with COV19D competetion, the 2nd round.
-The following lung segmentaion methods were used and their performance is measured using 'COVID-19 CT segmentation dataset'. 
+The following lung segmentaion methods were used and their performance is measured using 'COVID-19 CT segmentation dataset':
 
 # Region based segmentation using annotated public "COVID-19 CT segmentation dataset"
 * The code 'Region-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb"
