@@ -2,8 +2,8 @@ This resporatory is attached to COV19D_2nd project. <br/>
 The following lung segmentaion methods were implemented and their performance is measured using 'COVID-19 CT segmentation dataset'.
 * The annotated CT images at http://medicalsegmentation.com/covid19/ were used.
 * From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used to evaluate the segmentaiton performacne.
-* The "Lung masks" were sliced in the Z direction.
-* The "Image Volumes" were sliced in the Z direction, and the slices were then segmentaed using one of the proposed segmentation method. 
+* The "Lung masks" were sliced in Z direction.
+* The "Image Volumes" were sliced in Z direction, and the slices were then segmentaed using one of the proposed segmentation method. 
 * The resulting volume slices were compared against the corresponding lung masks slices in terms of the dice Coefficient value. Average dice value and minimuim dice values were used to evaluate the segemtnation method.
 
 # Region based segmentation using annotated public "COVID-19 CT segmentation dataset"
