@@ -17,4 +17,4 @@ The table below shows a comparision between the three methods:
 | -------------------------| -------------------------|----------------------------|
 | `Region based`           | 0.89311                  | 0.74504                    |
 | `Otsu histogram based`   | 0.89370                  | 0.75117                    |
-| `K-mean clustering (k=2)`| **0.89380**              | **0.75124                  |
+| `K-mean clustering (k=2)`| **0.89380**              | **0.75124**                |
