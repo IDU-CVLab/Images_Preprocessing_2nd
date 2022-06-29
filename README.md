@@ -11,7 +11,7 @@ The codes are:
 2. 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 3. 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb"
 
-The table below shows a comparision between the three methods:
+The table below shows a comparison between the three methods:
 
 | **Segmentation Method    | Average Dice Coeffecient | Minimuim Dice Coeffecient**|
 | -------------------------| -------------------------|----------------------------|
