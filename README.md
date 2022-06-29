@@ -15,3 +15,9 @@ The following lung segmentaion methods were implemented and their performance is
 * The code 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb"
 * The algorithm explores lung otsu histogram based segmetnation.
 * The Dice Coeffecient was used to measure the preformance of the segmetnation method. Average dice value over all slices = 0.89370, minimuim value = 0.75117
+
+
+# K means clustering based segmentation using annotated public "COVID-19 CT segmentation dataset"
+* The code 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb".
+* The algorithm explores lung k-means clustering based segmentaion, where k=2.
+* The Dice Coeffecient was used to measure the preformance of the segmetnation method. Average dice value over all slices = 0.89380, minimuim value = 0.75124
