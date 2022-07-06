@@ -2,7 +2,7 @@ This resporatory is part of the [COV19D_2nd project](https://github.com/IDU-CVLa
 * Lung segmentaion methods were used and their performances were measured in terms of dice similarity. The results were evaluated using the publicly available 'COVID-19 CT segmentation dataset' at http://medicalsegmentation.com/covid19/.
 * From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used to evaluate the segmentaiton performacne.
 * The "Lung masks" were sliced in Z axial direction.
-* The "Image Volumes" were sliced in Z axial direction, and the slices were then segmentaed using one of the proposed segmentation method. 
+* The "Image Volumes" were sliced in Z axial direction, and the slices were then segmentaed using one of the proposed segmentation methods. 
 * The resulting volume slices were compared against the corresponding lung masks in terms of the dice Coefficient value. Average dice value and minimuim dice values over all lung mask slices were used to evaluate the segemtnation method. <br/>
 
 The codes are:
