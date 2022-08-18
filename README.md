@@ -12,7 +12,7 @@ The codes are:
 3. 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb"
 4.  UNet_model with 3 layers depth architecture
 <br/>
-The table below shows a comparison between the three methods:
+The table below shows comparison between the proposed methods over all the test images:
 
 | **Segmentation Method**            |**Average Dice Coeffecient**|**Minimuim Dice Coeffecient**|
 | -----------------------------------| ---------------------------|-----------------------------|
