@@ -10,7 +10,7 @@ The codes are:
 1. 'Region-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 2. 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 3. 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb"
-4.  UNet_model with 3 layers depth architecture
+4.  'UNet_model.py'
 <br/>
 The table below shows comparison between the proposed methods over all the test images:
 
