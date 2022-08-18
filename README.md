@@ -10,6 +10,7 @@ The codes are:
 1. 'Region-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 2. 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 3. 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb"
+4.  UNet_model with 3 layers depth architecture
 <br/>
 The table below shows a comparison between the three methods:
 
@@ -17,4 +18,5 @@ The table below shows a comparison between the three methods:
 | -----------------------------------| ---------------------------|-----------------------------|
 | `Region based`                     | 0.89311                    | 0.74504                     |
 | ` histogram-Threshold (otsu) based`| 0.89370                    | 0.75117                     |
-| `K-means clustering (K=2)`         | **0.89380**                | **0.75124**                 |
+| `K-means clustering (K=2)`         | 0.89380                    | 0.75124                     |
+| `UNet_model (3layers depth)`       | **0.968  **                | **0.913  **                 |
