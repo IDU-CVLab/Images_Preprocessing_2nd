@@ -19,4 +19,4 @@ The table below shows comparison between the proposed methods over all the test 
 | `Region based`                     | 0.89311                    | 0.74504                     |
 | ` histogram-Threshold (otsu) based`| 0.89370                    | 0.75117                     |
 | `K-means clustering (K=2)`         | 0.89380                    | 0.75124                     |
-| `UNet_model (3layers depth)`       | **0.968  **                | **0.913  **                 |
+| `UNet_model (3layers depth)`       | **0.968**                  | **0.913**                   |
