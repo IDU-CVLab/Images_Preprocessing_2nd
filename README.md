@@ -2,8 +2,8 @@
 * From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used to evaluate the segmentaiton performacne.
 * The "Lung masks" were sliced in Z axial direction.
 * The "Image Volumes" were sliced in Z axial direction, and the slices were then segmentaed using one of the proposed segmentation methods.
-* Training set includes all t2 to t8 images and correspoding masks; i.e. 745 images and 745 masks.
-* Test set includes all t0 and t1 images and corresponding masks; i.e. 84 images and 84 masks.  
+* Training set includes all t2 to t8 images and correspoding masks; i.e. 745 annotated images and 745 annotated masks.
+* Test set includes all t0 and t1 images and corresponding masks; i.e. 84 annotated images and 84 annotated masks.  
 * The resulting volume slices were compared against the corresponding lung masks in terms of the dice Coefficient value. Average dice value and minimuim dice values over all lung mask slices were used to evaluate the segemtnation method. <br/>
 
 The codes are:
