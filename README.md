@@ -11,12 +11,3 @@ The codes are:
 2. 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 3. 'K_means_Clustering_based_Segmentation_using_COVID_19_CT_segmentation_dataset.ipynb"
 4.  'UNet_model.py'
-<br/>
-The table below shows comparison between the proposed methods over all the test images:
-
-| **Segmentation Method**            |**Average Dice Coeffecient**|**Minimuim Dice Coeffecient**|
-| -----------------------------------| ---------------------------|-----------------------------|
-| `Region based`                     | 0.89311                    | 0.74504                     |
-| ` histogram-Threshold (otsu) based`| 0.89370                    | 0.75117                     |
-| `K-means clustering (K=2)`         | 0.89380                    | 0.75124                     |
-| `UNet_model (3-layer depth)`       | **0.968**                  | **0.913**                   |
