@@ -1,6 +1,5 @@
 * Different egmentaion methods were compared and their performances were recorded and measured using dice similarities. The results were evaluated using the publicly available [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/).
-* From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used to evaluate the segmentaiton performacne.
-* The "Lung masks" were sliced in Z axial direction.
+* From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used for evaluation.
 * The "Image Volumes" were sliced in Z axial direction, and the slices were then segmentaed using one of the proposed segmentation methods.
 * Training set includes all t2 to t8 images and correspoding masks; i.e. 745 annotated images and 745 annotated masks.
 * Test set includes all t0 and t1 images and corresponding masks; i.e. 84 annotated images and 84 annotated masks.  
