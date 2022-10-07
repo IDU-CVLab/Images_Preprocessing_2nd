@@ -1,5 +1,5 @@
 * This repository is segemtnation part of the pipeline proposed [here](https://github.com/IDU-CVLab/COV19D_3rd)
-* Different egmentaion methods were compared and their performances were recorded and measured using dice similarities. The results were evaluated using the publicly available [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/).
+* Different segmentaion methods were compared and their performances were recorded and measured using dice similarities. The results were evaluated using the publicly available [COVID-19 CT segmentation dataset](http://medicalsegmentation.com/covid19/).
 * From the dataset; the "Image volumes (308 Mb)", and the "Lung masks (1 Mb)" were used for evaluation.
 * The "Image Volumes" were sliced in Z axial direction, and the slices were then segmentaed using one of the proposed segmentation methods.
 * Training set includes all t2 to t8 images and correspoding masks; i.e. 745 annotated images and 745 annotated masks.
