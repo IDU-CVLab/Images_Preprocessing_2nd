@@ -9,5 +9,5 @@
 The codes are:
 1. 'Region-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
 2. 'Threshold-Based-Segmentation using COVID-19 CT segmentation dataset.ipynb'
-3. 'K-Means-Cluster-Seg-CNN-Classif.py'
+3. 'K-Means-Cluster-Seg-CNN-Classif.py' - Updated using ChatGPT gneratred code.
 4.  'UNet_model.py'
